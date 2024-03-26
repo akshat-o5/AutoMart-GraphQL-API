@@ -1,5 +1,5 @@
 ﻿# AutoMart-GraphQL-API
-
+.
 ## API Description
 
 This API provides access to a database of second-hand vehicles, allowing users to query and manipulate vehicle information. It offers endpoints to retrieve vehicle details based on various criteria such as type, brand, price range, and years of usage. Additionally, users can add, update, and delete vehicle entries in the database.
