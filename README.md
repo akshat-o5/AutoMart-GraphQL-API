@@ -7,3 +7,6 @@ This API provides access to a database of second-hand vehicles, allowing users t
 ## Advantages of GraphQL over REST API
 
 In this project, GraphQL offers several advantages over REST APIs. It enables precise data retrieval, reduces network overhead, simplifies API management with a single endpoint, and facilitates seamless evolution of the API schema. These benefits make GraphQL a more efficient and flexible solution for handling vehicle information retrieval and manipulation.
+
+
+## API Documentation: https://documenter.getpostman.com/view/23129267/2sA35Bd4zW
