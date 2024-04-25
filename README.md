@@ -10,3 +10,5 @@ In this project, GraphQL offers several advantages over REST APIs. It enables pr
 
 
 ## API Documentation: https://documenter.getpostman.com/view/23129267/2sA35Bd4zW
+
+## Hashnode Blog: https://akshato2.hashnode.dev/revolutionizing-vehicle-data-management-exploring-the-power-of-graphql-in-second-hand-automobile-apis
